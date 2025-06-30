@@ -1,0 +1,5 @@
+dustyddawgs
+
+tC5OFVgcIwXlZNG4
+
+mongodb+srv://dustyddawgs:tC5OFVgcIwXlZNG4@devconnector.8edxfsm.mongodb.net/?retryWrites=true&w=majority&appName=devconnector
