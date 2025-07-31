@@ -177,7 +177,7 @@ router.put(
     auth,
     [
       check('Title is required').not().isEmpty(),
-      check('company', 'company is required').not().isEmpty(),
+      check('company', 'Company is required').not().isEmpty(),
       check('from', 'From date is required').not().isEmpty(),
     ],
   ],
